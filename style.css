@@ -1,7 +1,6 @@
 body {
     font-family: sans-serif;
-    background: rgb(167,217,244);
-background: linear-gradient(90deg, rgba(167,217,244,1) 0%, rgba(235,134,207,1) 50%, rgba(168,142,238,1) 100%);
+    background: red;
 }
 header{
 border:solid 5px #7CFC00;
